@@ -114,12 +114,12 @@
 
 <h2 align="center">📊 GitHub Statistics & Activity</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=a9a9b3&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&fire=00D9FF&ring=00D9FF&currStreakNum=00D9FF&sideNums=a9a9b3&sideLabels=a9a9b3&dates=a9a9b3&bg_color=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EXPRT-CODER&show_icons=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=a9a9b3&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EXPRT-CODER&hide_border=true&fire=00D9FF&ring=00D9FF&currStreakNum=00D9FF&sideNums=a9a9b3&sideLabels=a9a9b3&dates=a9a9b3&bg_color=0D1117" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EXPRT-CODER&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 <br/>

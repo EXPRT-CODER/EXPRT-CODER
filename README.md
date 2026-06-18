@@ -1,172 +1,442 @@
 <div align="center">
-  <!-- Dynamic Animated Professional Grey Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=A1A1AA&height=250&section=header&text=EXPRT-CODER&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║         🚀 EXPRT-CODER - FULL STACK DEVELOPER 🚀            ║
+║                 Building Digital Excellence                   ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=a855f7&center=true&width=800&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MERN+Stack;Real-time+Web+Applications;Modern+UI%2FUX+Designer" alt="Typing SVG" />
+
 </div>
+
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A1A1AA&center=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MERN;Building+Scalable+Web+Apps" alt="Typing SVG" />
+
+<img alt="Purple Divider" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+### 📍 QUICK STATS
+```
+┌─────────────────────────────────────────────────────┐
+│  📊 Views     │  👥 Followers  │  ⭐ Stars  │ 🎯 Goals │
+│   Growing     │   Increasing   │  Growing   │ Learning │
+└─────────────────────────────────────────────────────┘
+```
+
+![Views Badge](https://komarev.com/ghpvc/?username=EXPRT-CODER&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/EXPRT-CODER?style=for-the-badge&color=a855f7&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/EXPRT-CODER?style=for-the-badge&color=a855f7)
+
 </div>
 
-<!-- FULL SCREEN SPACER -->
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="450" width="1"/></div>
+---
 
-<!-- ABOUT ME (CODE STYLE) -->
-<h2 align="center">👨‍💻 About Me</h2>
-<div align="center">
-<pre align="left" style="background-color: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #A1A1AA; width: 80%;"><code><span style="color: #FF7B72;">const</span> <span style="color: #79C0FF;">vishal</span>: <span style="color: #4DB092;">Developer</span> = {
-  <span style="color: #79C0FF;">name</span>      : <span style="color: #A5D6FF;">"Vishal"</span>,
-  <span style="color: #79C0FF;">username</span>  : <span style="color: #A5D6FF;">"EXPRT-CODER"</span>,
-  <span style="color: #79C0FF;">location</span>  : <span style="color: #A5D6FF;">"Baghpat, Uttar Pradesh, India 🇮🇳"</span>,
-  <span style="color: #79C0FF;">education</span> : <span style="color: #A5D6FF;">"BCA (Final Year) · SPC College (2025–2026)"</span>,
+## 🎯 WHO AM I?
 
-  <span style="color: #79C0FF;">building</span>  : <span style="color: #A5D6FF;">"Advanced MERN web apps & immersive UI experiences"</span>,
-  <span style="color: #79C0FF;">learning</span>  : [<span style="color: #A5D6FF;">"Python"</span>, <span style="color: #A5D6FF;">"AI/Image Gen Prompts"</span>, <span style="color: #A5D6FF;">"Kali Linux"</span>, <span style="color: #A5D6FF;">"Vite"</span>],
-  <span style="color: #79C0FF;">goal</span>      : <span style="color: #A5D6FF;">"Master full-stack systems and conquer the NIMCET exams"</span>,
+<table>
+<tr>
+<td width="50%">
 
-  <span style="color: #79C0FF;">openTo</span>    : [<span style="color: #A5D6FF;">"Internships 💼"</span>, <span style="color: #A5D6FF;">"Open Source 🌐"</span>, <span style="color: #A5D6FF;">"Collabs 🤝"</span>],
-  <span style="color: #79C0FF;">superpower</span>: <span style="color: #A5D6FF;">"Architecting robust server-side logic & precision styling ⚡"</span>,
-  <span style="color: #79C0FF;">belief</span>    : <span style="color: #A5D6FF;">"Code is poetry written for machines to execute."</span>
-};</code></pre>
-</div>
+```python
+class Developer:
+    def __init__(self):
+        self.name = "EXPRT-CODER"
+        self.role = "Full Stack Dev"
+        self.focus = ["React", "MERN", "UI/UX"]
+        self.passion = "Building Amazing Web Apps"
+        
+    def code(self):
+        return "✨ Quality Code ✨"
+```
 
-<!-- FULL SCREEN SPACER -->
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="450" width="1"/></div>
+</td>
+<td width="50%">
 
-<!-- COMPACT 2x2 PROJECT GRID -->
-<h2 align="center">🚀 Featured Projects</h2>
-<table align="center" width="80%" style="border-collapse: collapse;">
-  <tr>
-    <!-- Project 1: Portfolio -->
-    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363D;">
-      <h3 align="center">🎯 My Portfolio</h3>
-      <p align="center">Showcase of all projects, skills, and professional development experience.</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=A1A1AA" />
-        <img src="https://img.shields.io/badge/Tailwind-20232A?style=flat-square&logo=tailwind-css&logoColor=A1A1AA" />
-      </div>
-      <br/>
-      <div align="center">
-        <a href="https://portfolio-exprt-coder.netlify.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-A1A1AA?style=for-the-badge&logoColor=black" /></a>
-      </div>
-    </td>
-    <!-- Project 2: VType -->
-    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363D;">
-      <h3 align="center">⌨️ VType</h3>
-      <p align="center">Professional typing speed test application with real-time metrics and deep analytics.</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=A1A1AA" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=A1A1AA" />
-      </div>
-      <br/>
-      <div align="center">
-        <a href="https://vtype-exprt-coder.netlify.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-A1A1AA?style=for-the-badge&logoColor=black" /></a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <!-- Project 3: Gym Management -->
-    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363D;">
-      <h3 align="center">💪 Gym Management</h3>
-      <p align="center">Comprehensive MERN application featuring scheduling, payments, and role-based access.</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=mongodb&logoColor=A1A1AA" />
-        <img src="https://img.shields.io/badge/JWT-20232A?style=flat-square&logo=json-web-tokens&logoColor=A1A1AA" />
-      </div>
-      <br/>
-      <div align="center">
-        <a href="https://gym-management-exprt-coder.netlify.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-A1A1AA?style=for-the-badge&logoColor=black" /></a>
-      </div>
-    </td>
-    <!-- Project 4: Tic Tac Toe -->
-    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363D;">
-      <h3 align="center">🎮 Tic Tac Toe</h3>
-      <p align="center">Real-time multiplayer game using WebSockets with live player chat and status updates.</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Socket.io-20232A?style=flat-square&logo=socket.io&logoColor=A1A1AA" />
-        <img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=A1A1AA" />
-      </div>
-      <br/>
-      <div align="center">
-         <a href="https://tic-tac-toe-exprt-coder.netlify.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-A1A1AA?style=for-the-badge&logoColor=black" /></a>
-      </div>
-    </td>
-  </tr>
+### 💡 WHAT I DO
+- 🎨 Create stunning user interfaces
+- ⚡ Build lightning-fast web apps
+- 🔗 Develop robust backends
+- 🌐 Deploy scalable solutions
+- 💻 Full stack development
+
+</td>
+</tr>
 </table>
 
-<!-- FULL SCREEN SPACER -->
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="450" width="1"/></div>
+---
 
-<!-- EXPANDED TECH STACK SECTION -->
-<h2 align="center">💻 Tech Stack & Tools</h2>
-<p align="center"><i>Languages, Frameworks, and Technologies I use to build scalable solutions.</i></p>
+## 🌟 FEATURED PROJECTS
+
 <div align="center">
-  <br/>
-  <h3>Frontend Development</h3>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=A1A1AA" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=A1A1AA" />
-  <img src="https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=A1A1AA" />
-  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=A1A1AA" />
-  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=A1A1AA" />
-  <br/><br/>
-  <h3>Backend & Database</h3>
-  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=A1A1AA" />
-  <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=A1A1AA" />
-  <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=A1A1AA" />
-  <img src="https://img.shields.io/badge/Socket.io-20232A?style=for-the-badge&logo=socketdotio&logoColor=A1A1AA" />
-  <br/><br/>
-  <h3>Programming & OS</h3>
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=A1A1AA" />
-  <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=A1A1AA" />
-  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=A1A1AA" />
-  <img src="https://img.shields.io/badge/Kali_Linux-20232A?style=for-the-badge&logo=kalilinux&logoColor=A1A1AA" />
-  <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=A1A1AA" />
+
+### [ 🎯 4 SHOWCASE PROJECTS IN ONE VIEW ]
+
 </div>
 
-<!-- FULL SCREEN SPACER -->
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="450" width="1"/></div>
+<table width="100%" border="0" cellspacing="0" cellpadding="20">
+<tr>
 
-<!-- GITHUB STATISTICS -->
-<h2 align="center">📊 GitHub Statistics</h2>
-<p align="center"><i>A breakdown of my contributions, commits, and overall impact.</i></p>
+<td width="25%" align="center" bgcolor="#1a1a2e" style="border-radius: 10px; border: 2px solid #a855f7; padding: 20px; margin: 5px;">
+
+### 🎯 PORTFOLIO
+**Your Gateway**
+
+```
+━━━━━━━━━━━━━━━
+📱 Responsive
+🎨 Beautiful UI
+📊 Showcase
+━━━━━━━━━━━━━━━
+```
+
+**Tech:** React, Tailwind
+
+[🔗 VISIT](https://portfolio-exprt-coder.netlify.app/)
+
+</td>
+
+<td width="25%" align="center" bgcolor="#2d1b4e" style="border-radius: 10px; border: 2px solid #a855f7; padding: 20px; margin: 5px;">
+
+### ⌨️ VTYPE
+**Speed Testing**
+
+```
+━━━━━━━━━━━━━━━
+⚡ Real-time WPM
+📈 Accuracy Tracker
+🎯 Analytics
+━━━━━━━━━━━━━━━
+```
+
+**Tech:** React, JavaScript
+
+[🔗 VISIT](https://vtype-exprt-coder.netlify.app/)
+
+</td>
+
+<td width="25%" align="center" bgcolor="#1a1a2e" style="border-radius: 10px; border: 2px solid #a855f7; padding: 20px; margin: 5px;">
+
+### 💪 GYM MGMT
+**Complete Solution**
+
+```
+━━━━━━━━━━━━━━━
+🔐 Auth System
+📅 Scheduling
+💳 Payments
+━━━━━━━━━━━━━━━
+```
+
+**Tech:** MERN Stack
+
+[🔗 VISIT](https://gym-management-exprt-coder.netlify.app/)
+
+</td>
+
+<td width="25%" align="center" bgcolor="#2d1b4e" style="border-radius: 10px; border: 2px solid #a855f7; padding: 20px; margin: 5px;">
+
+### 🎮 TIC TAC TOE
+**Multiplayer Battle**
+
+```
+━━━━━━━━━━━━━━━
+🌐 Socket.io
+👥 Real-time
+💬 Live Chat
+━━━━━━━━━━━━━━━
+```
+
+**Tech:** React, Node.js
+
+[🔗 VISIT](https://tic-tac-toe-exprt-coder.netlify.app/)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 💻 TECH ARSENAL
+
 <div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=EXPRT-CODER&show_icons=true&hide_border=true&title_color=A1A1AA&icon_color=A1A1AA&text_color=a9a9b3&bg_color=0D1117&ring_color=A1A1AA" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EXPRT-CODER&hide_border=true&fire=A1A1AA&ring=A1A1AA&currStreakNum=A1A1AA&sideNums=a9a9b3&sideLabels=a9a9b3&dates=a9a9b3&bg_color=0D1117" alt="GitHub Streak" />
+
+### 🎨 FRONTEND WARRIORS
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  ⚛️  React    🎨 Tailwind    📱 HTML5  ┃
+┃  🎭 CSS3    🚀 JavaScript   💨 Modern  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+### ⚙️ BACKEND BUILDERS
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  🟩 Node.js  🚄 Express    🗄️  MongoDB  ┃
+┃  🔗 REST API  🔐 JWT       ⚡ Socket.io  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+### 🚀 DEPLOYMENT & TOOLS
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  🌐 Netlify  🐙 GitHub     💾 Git       ┃
+┃  📦 NPM      🔧 VS Code    🎯 Chrome    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
 </div>
 
-<!-- FULL SCREEN SPACER -->
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="450" width="1"/></div>
+---
 
-<!-- GITHUB ACTIVITY GRAPH -->
-<h2 align="center">📈 GitHub Activity</h2>
-<p align="center"><i>Visualizing my coding consistency over time.</i></p>
+## 📊 GITHUB STATISTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=EXPRT-CODER&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9cacc&ring_color=a855f7" alt="GitHub Stats" />
+
 <br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EXPRT-CODER&bg_color=0D1117&color=A1A1AA&line=A1A1AA&point=FFFFFF&area=true&hide_border=true" width="90%" alt="GitHub Activity Graph" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXPRT-CODER&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9cacc" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=EXPRT-CODER&theme=dark&hide_border=true&background=0D1117&ring=a855f7&fire=a855f7&currStreakNum=c9cacc&sideNums=a855f7&sideLabels=a855f7" alt="GitHub Streak" />
+
 </div>
 
-<!-- FULL SCREEN SPACER -->
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="450" width="1"/></div>
+---
 
-<!-- LET'S BUILD TOGETHER (CONTACT SECTION) -->
-<h2 align="center">🤝 Let's Build Together</h2>
-<div align="center" style="max-width: 600px; margin: 0 auto;">
-  <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Whether you have a complex backend infrastructure to design, a dynamic frontend to bring to life, or just want to connect over tech—my inbox is always open.</p>
-  <br/>
-  <a href="https://www.linkedin.com/in/vishal-prajapati-63213638a"><img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:exprt-coder@gmail.com"><img src="https://img.shields.io/badge/Email-Send_a_Message-EA4335?style=for-the-badge&logo=gmail" /></a>
+## 🌊 ACTIVITY FLOW
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EXPRT-CODER&theme=github-dark&hide_border=true&area=true&custom_title=📈%20Contribution%20Activity&bg_color=0D1117&color=a855f7&line=a855f7&point=a855f7" alt="Activity Graph" />
+
 </div>
 
-<!-- FULL SCREEN SPACER -->
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" height="450" width="1"/></div>
+---
 
-<!-- OUTRO -->
+## 🎓 EXPERTISE BREAKDOWN
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=A1A1AA&height=100&section=footer" width="100%"/>
-  <br/>
-  🌟 If you find my work interesting, please give it a ⭐ and follow me! <br/>
-  Thank you for visiting my GitHub profile! 🚀 <br/>
-  <sub>Made with 🤍 by Vishal (EXPRT-CODER)</sub>
+
+<table border="0" width="100%">
+<tr>
+<td width="33%" align="center">
+
+### 🎨 FRONTEND
+```
+💎 React Mastery
+🎯 Responsive Design
+✨ Tailwind Magic
+🌈 Modern UI/UX
+```
+
+</td>
+<td width="33%" align="center">
+
+### ⚙️ BACKEND
+```
+🚄 Node.js Expert
+🔗 REST API Design
+🗄️ Database Wizard
+🔐 Security Focus
+```
+
+</td>
+<td width="33%" align="center">
+
+### 🌐 REAL-TIME
+```
+🔌 Socket.io Master
+⚡ Real-time Updates
+📊 Live Analytics
+💬 Chat Systems
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 CURRENT MISSION
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════╗
+║     🚀 WHAT I'M BUILDING RIGHT NOW 🚀     ║
+╠════════════════════════════════════════════╣
+║  ✨ Scalable MERN Applications             ║
+║  🎨 Advanced UI/UX Patterns                ║
+║  ⚡ Performance Optimization               ║
+║  🌐 Cloud Deployment Expertise             ║
+║  💡 Open Source Contributions              ║
+╚════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🤝 LET'S CONNECT & BUILD
+
+<div align="center">
+
+<table border="0" width="100%">
+<tr>
+<td align="center">
+
+### 📧 EMAIL
+<a href="mailto:vishal67596759@gmail.com">
+  <img src="https://img.shields.io/badge/vishal67596759@gmail.com-a855f7?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" alt="Gmail" />
+</a>
+
+</td>
+<td align="center">
+
+### 🌐 PORTFOLIO
+<a href="https://portfolio-exprt-coder.netlify.app/">
+  <img src="https://img.shields.io/badge/portfolio-exprt--coder-a855f7?style=for-the-badge&logo=firefox&logoColor=white&logoWidth=30" alt="Portfolio" />
+</a>
+
+</td>
+<td align="center">
+
+### 💻 GITHUB
+<a href="https://github.com/EXPRT-CODER">
+  <img src="https://img.shields.io/badge/GitHub-EXPRT--CODER-a855f7?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" alt="GitHub" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📈 QUICK FACTS
+
+<div align="center">
+
+<table border="1" width="100%" cellpadding="15" cellspacing="0">
+<tr bgcolor="#1a1a2e" style="border-color: #a855f7;">
+<td align="center" width="25%">
+
+### 🎯 PROJECTS
+**6+ Complete**
+```
+🏆 Production Ready
+🎨 UI Focused
+⚡ Performance Tuned
+```
+
+</td>
+<td align="center" width="25%">
+
+### 💻 STACK
+**MERN Master**
+```
+🔄 Full Stack
+🌐 Real-time
+🎨 Modern Design
+```
+
+</td>
+<td align="center" width="25%">
+
+### 🚀 DEPLOYED
+**All on Netlify**
+```
+⚡ Fast Loading
+🔒 Secure
+📱 Responsive
+```
+
+</td>
+<td align="center" width="25%">
+
+### 🌟 STATUS
+**Always Learning**
+```
+📚 Growing Skills
+🎯 Improving Daily
+💡 Innovation Focus
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌈 TECH BADGES
+
+<div align="center">
+
+![React](https://img.shields.io/badge/-React-a855f7?style=for-the-badge&logo=react&logoColor=white&logoWidth=20)
+![JavaScript](https://img.shields.io/badge/-JavaScript-a855f7?style=for-the-badge&logo=javascript&logoColor=white&logoWidth=20)
+![Node.js](https://img.shields.io/badge/-Node.js-a855f7?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=20)
+![Express](https://img.shields.io/badge/-Express-a855f7?style=for-the-badge&logo=express&logoColor=white&logoWidth=20)
+![MongoDB](https://img.shields.io/badge/-MongoDB-a855f7?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=20)
+![Tailwind](https://img.shields.io/badge/-Tailwind-a855f7?style=for-the-badge&logo=tailwindcss&logoColor=white&logoWidth=20)
+![Socket.io](https://img.shields.io/badge/-Socket.io-a855f7?style=for-the-badge&logo=socket.io&logoColor=white&logoWidth=20)
+![Git](https://img.shields.io/badge/-Git-a855f7?style=for-the-badge&logo=git&logoColor=white&logoWidth=20)
+
+</div>
+
+---
+
+## 🎨 FEATURED HIGHLIGHTS
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║  ✨ WHAT MAKES MY PROJECTS SPECIAL ✨                    ║
+║                                                           ║
+║  ⚡ Lightning Fast Performance - Optimized Code           ║
+║  🎨 Beautiful UI/UX - Tailwind CSS Magic                 ║
+║  🔐 Secure & Scalable - Production Ready                 ║
+║  🌐 Real-time Features - Socket.io Powered              ║
+║  📱 Mobile Responsive - Works Everywhere                 ║
+║  🚀 Fully Deployed - Live & Running                      ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║              ⭐ LOVE MY WORK? GIVE A STAR! ⭐                 ║
+║                  FOLLOW FOR MORE AMAZING PROJECTS              ║
+║                                                                ║
+║              Thank you for visiting my profile! 💜             ║
+║                  Let's build something awesome!                ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+<img alt="Purple Divider" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+### 🎯 Profile Last Updated: June 2024 | Made with 💜 by EXPRT-CODER
+
 </div>

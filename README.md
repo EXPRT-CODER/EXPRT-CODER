@@ -1,87 +1,239 @@
-<div align="center">
-
-# 🚀 Hello, I'm Vishal! 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Software+Engineering+Student;Passionate+about+UI%2FUX+%26+Backend;Always+building+and+learning!)](https://git.io/typing-svg)
-
-**Building scalable web applications, real-time systems, and impressive user interfaces.**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-exprt-coder.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishal67596759@gmail.com)
-
-</div>
-
----
-
-### 💻 Tech Stack & Arsenal
+# 👨‍💻 EXPRT-CODER | Full Stack Developer
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,vite,nodejs,express,mongodb,js,python,java,git,github,linux,postman,vscode&perline=7" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MERN+Expert;Building+Exceptional+Digital+Experiences" alt="Typing SVG" />
 </div>
-
----
-
-### 🏆 Featured Projects
-
-I specialize in the MERN stack and frontend engineering using React and Tailwind CSS. Here are my top builds:
-
-<table border="1" bordercolor="#30363d">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏋️ <a href="https://gym-management-exprt-coder.netlify.app/">Gym Management System</a></h3>
-      <b>Tech Stack:</b> MongoDB, Express, React, Node.js<br/>
-      A comprehensive, full-stack fitness facility platform. I engineered the custom backend and server architecture from scratch to handle user data securely. The frontend features an incredibly impressive, modern UI with smooth interactions and seamless API integration.
-    </td>
-    <td width="50%" valign="top">
-      <h3>⌨️ <a href="https://vtype-exprt-coder.netlify.app/">VType - Typing App</a></h3>
-      <b>Tech Stack:</b> React, Tailwind CSS<br/>
-      An advanced typing tutor designed for deep focus. Features a complex logic engine that calculates live metrics including WPM (Words Per Minute), real-time accuracy percentages, and exact error tracking. Wrapped in a sleek, minimalist interface.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎮 <a href="https://tic-tac-toe-exprt-coder.netlify.app/">Multiplayer Tic-Tac-Toe</a></h3>
-      <b>Tech Stack:</b> React, Tailwind, Socket.io, Node.js<br/>
-      A real-time multiplayer gaming experience. Integrated <b>Socket.io</b> to engineer low-latency, bi-directional communication between clients and the server, ensuring instant state synchronization and a flawless live-play experience across different browsers.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌤️ <a href="https://weather-app-exprt-coder.netlify.app/">Live Weather Forecast</a></h3>
-      <b>Tech Stack:</b> React, Tailwind, Third-Party APIs<br/>
-      A dynamic meteorological dashboard that consumes live weather APIs to deliver highly accurate, location-based forecasting. Focused on state management and translating complex JSON data into an intuitive, visually stunning, and responsive design.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐱 <a href="https://the-cat-exprt-coder.netlify.app/">THE CAT API Explorer</a></h3>
-      <b>Tech Stack:</b> React, Tailwind, Dual APIs<br/>
-      A fun but technically challenging asynchronous web app. It successfully handles and merges data from two distinct APIs simultaneously—one fetching high-quality feline imagery and the other retrieving random facts—demonstrating strong Promise handling and data rendering.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://portfolio-exprt-coder.netlify.app">Personal Portfolio</a></h3>
-      <b>Tech Stack:</b> React, Tailwind CSS<br/>
-      My digital storefront. Engineered for maximum performance, clean code architecture, and high visual impact to showcase my journey, technical capabilities, and ongoing software projects.
-    </td>
-  </tr>
-</table>
-
----
-
-### ⚡ GitHub Analytics
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EXPRT-CODER&theme=radical&hide_border=true" alt="GitHub Streak" />
+  ![Visitors](https://komarev.com/ghpvc/?username=EXPRT-CODER&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
+  ![GitHub followers](https://img.shields.io/github/followers/EXPRT-CODER?style=flat-square&color=00D9FF&label=FOLLOWERS)
+  ![GitHub stars](https://img.shields.io/github/stars/EXPRT-CODER?style=flat-square&color=00D9FF&label=STARS)
+  
+</div>
 
-  <br/><br/>
+---
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EXPRT-CODER&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXPRT-CODER&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+## 🎯 About Me
+
+I'm a passionate **Full Stack Developer** with expertise in building modern web applications. I specialize in creating intuitive user interfaces and robust backend systems using cutting-edge technologies. My projects showcase expertise in **React, Node.js, Express, MongoDB, Tailwind CSS, Socket.io, and REST APIs**.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>💻</strong><br/>Projects</td>
+      <td align="center"><strong>🎨</strong><br/>UI/UX</td>
+      <td align="center"><strong>⚙️</strong><br/>Backend</td>
+      <td align="center"><strong>🚀</strong><br/>Deployment</td>
+    </tr>
+    <tr>
+      <td align="center">6+</td>
+      <td align="center">React</td>
+      <td align="center">MERN</td>
+      <td align="center">Netlify</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. 💪 **Gym Management System**
+> A comprehensive MERN stack gym management application with impressive UI and advanced features
+- **Technologies**: React, Node.js, Express, MongoDB, Tailwind CSS, JWT Authentication
+- **Features**: 
+  - 🔐 User authentication & role-based access
+  - 💳 Membership & payment management
+  - 📅 Class scheduling & trainer assignments
+  - 📊 Analytics dashboard with real-time stats
+  - 📱 Responsive design for all devices
+- **Live Demo**: [https://gym-management-exprt-coder.netlify.app/](https://gym-management-exprt-coder.netlify.app/)
+
+---
+
+### 2. ⌨️ **VType - Advanced Typing Speed Test**
+> Professional typing speed test application with real-time metrics and detailed analytics
+- **Technologies**: React, Tailwind CSS, JavaScript
+- **Features**:
+  - ⚡ Real-time typing speed calculation (WPM)
+  - 📊 Accuracy percentage tracking
+  - 🔴 Error highlighting & mistake tracking
+  - 📈 Performance history & statistics
+  - 🎯 Multiple difficulty levels
+  - 🏆 Leaderboard system
+- **Live Demo**: [https://vtype-exprt-coder.netlify.app/](https://vtype-exprt-coder.netlify.app/)
+
+---
+
+### 3. 🎮 **Tic Tac Toe Multiplayer**
+> Real-time multiplayer tic-tac-toe game with live player interactions
+- **Technologies**: React, Socket.io, Tailwind CSS, Node.js
+- **Features**:
+  - 🌐 Real-time multiplayer gameplay using WebSockets
+  - 👥 Live player connections & status
+  - 💬 Live chat during gameplay
+  - 🎯 Win/Loss tracking
+  - ⏱️ Move timer for competitive play
+  - 📊 Game statistics & win rates
+- **Live Demo**: [https://tic-tac-toe-exprt-coder.netlify.app/](https://tic-tac-toe-exprt-coder.netlify.app/)
+
+---
+
+### 4. 🌤️ **Weather Forecast App**
+> Real-time weather information with beautiful UI and detailed forecasts
+- **Technologies**: React, Tailwind CSS, REST APIs, Geolocation API
+- **Features**:
+  - 🌡️ Live weather data with current conditions
+  - 📍 Location-based forecasting
+  - 📅 7-day weather forecast
+  - 💨 Advanced metrics (humidity, wind speed, UV index)
+  - 🌍 Multi-city search & favorites
+  - 🎨 Dynamic UI based on weather conditions
+- **Live Demo**: [https://weather-app-exprt-coder.netlify.app/](https://weather-app-exprt-coder.netlify.app/)
+
+---
+
+### 5. 🐱 **The Cat - Fun Facts & Images**
+> Adorable cat images paired with fascinating cat facts
+- **Technologies**: React, Tailwind CSS, Multiple APIs
+- **Features**:
+  - 🖼️ Random cat images from Cat API
+  - 📚 Interesting cat facts from facts API
+  - 💾 Save favorite cats
+  - 🔄 One-click refresh for new cats
+  - 📱 Mobile-optimized interface
+  - 😸 Fun & engaging design
+- **Live Demo**: [https://the-cat-exprt-coder.netlify.app/](https://the-cat-exprt-coder.netlify.app/)
+
+---
+
+### 6. 🎯 **My Portfolio**
+> Showcase of all projects, skills, and professional experience
+- **Live Demo**: [https://portfolio-exprt-coder.netlify.app/](https://portfolio-exprt-coder.netlify.app/)
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Libraries
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+### Deployment
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
 
-<br/>
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=100&section=footer" width="100%"/>
+  
+![EXPRT-CODER's GitHub stats](https://github-readme-stats.vercel.app/api?username=EXPRT-CODER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9cacc)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EXPRT-CODER&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9cacc)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=EXPRT-CODER&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=c9cacc)
+
+</div>
+
+---
+
+## 📈 My GitHub Activity
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EXPRT-CODER&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔨 Building scalable MERN applications
+- 📚 Mastering advanced JavaScript concepts
+- 🎨 Improving UI/UX design skills
+- 🚀 Learning cloud deployment strategies
+- 💡 Contributing to open-source projects
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishal67596759@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-exprt-coder.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EXPRT-CODER)
+
+</div>
+
+---
+
+## 💼 Quick Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <strong>Total Projects</strong><br/>
+        <img src="https://img.shields.io/badge/6%2B-Projects-00D9FF?style=flat-square&logo=github"/>
+      </td>
+      <td>
+        <strong>Tech Stack</strong><br/>
+        <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square"/>
+      </td>
+      <td>
+        <strong>Focus</strong><br/>
+        <img src="https://img.shields.io/badge/Full%20Stack-Development-339933?style=flat-square"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎓 Expertise
+
+```
+💪 Strengths
+├── 🎨 Responsive UI Design
+├── ⚡ Performance Optimization
+├── 🔐 User Authentication & Authorization
+├── 📊 Real-time Data Handling
+├── 🌐 API Integration
+└── 🚀 Full Stack Development
+```
+
+---
+
+<div align="center">
+  
+### 🌟 If you find my work interesting, please give it a ⭐ and follow me!
+
+**Thank you for visiting my GitHub profile!** 🚀
+
+---
+
+<sub>Last Updated: June 2024 | Made with ❤️ by EXPRT-CODER</sub>
+
 </div>

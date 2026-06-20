@@ -12,96 +12,96 @@
 
 
 
+
+
+<!-- AUTOMATED SVG ARCHITECTURE ABOUT ME DASHBOARD -->
 <h2 align="center">👨‍💻 About Me</h2>
-<div align="center">
-  <img src="./image.png" width="90%" alt="About Me Dashboard">
-</div>
-
-
-
-
-<h2 align="center">👨‍💻 About Me</h2>
+<br/>
 
 <div align="center">
-<table width="88%" style="border-collapse: collapse; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); border: 2px solid #30363D; border-radius: 14px; overflow: hidden; box-shadow: 0 20px 50px rgba(0, 217, 255, 0.1);">
-<tr>
-<td style="padding: 35px;">
+<svg width="88%" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <!-- Card Background with Gradient and Rounded Corners -->
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#161B22" />
+    </linearGradient>
+    <linearGradient id="badge-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF" />
+      <stop offset="100%" stop-color="#00A8E8" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="800" height="450" rx="14" fill="url(#bg-grad)" stroke="#30363D" stroke-width="2"/>
 
-<!-- Header -->
-<div style="margin-bottom: 22px;">
-<div style="background: linear-gradient(135deg, #00D9FF, #00A8E8); color: white; padding: 7px 15px; border-radius: 8px; font-family: monospace; font-size: 12px; font-weight: bold; letter-spacing: 1px; display: inline-block; margin-bottom: 12px;">
-▶ FULL STACK DEVELOPER
+  <!-- Top Left Pill Badge -->
+  <rect x="35" y="35" width="170" height="26" rx="6" fill="url(#badge-grad)" />
+  <text x="47" y="52" fill="#FFFFFF" font-family="-apple-system, sans-serif" font-size="11" font-weight="bold" letter-spacing="1">▶ FULL STACK DEV</text>
+
+  <!-- Title String -->
+  <text x="35" y="95" fill="#F0F6FC" font-family="-apple-system, sans-serif" font-size="22" font-weight="700">Vishal — Full Stack Dev &amp; DevOps Enthusiast</text>
+  <text x="35" y="118" fill="#58A6FF" font-family="-apple-system, sans-serif" font-size="14" font-weight="500">Building scalable systems from code to cloud</text>
+
+  <!-- Main Narrative Bio Wrap -->
+  <text x="35" y="155" fill="#C9D1D9" font-family="-apple-system, sans-serif" font-size="14" line-height="1.6">
+    <tspan font-weight="bold" fill="#F0F6FC">BCA graduate</tspan> based in India passionate about architecting <tspan font-weight="bold" fill="#F0F6FC">high-performance applications</tspan> and automating
+  </text>
+  <text x="35" y="175" fill="#C9D1D9" font-family="-apple-system, sans-serif" font-size="14">
+    infrastructure. I specialize in <tspan fill="#58A6FF" font-weight="bold">full-stack MERN development</tspan> with strong foundations in <tspan fill="#58A6FF" font-weight="bold">C/C++ &amp; DSA</tspan>.
+  </text>
+  <text x="35" y="195" fill="#C9D1D9" font-family="-apple-system, sans-serif" font-size="14">
+    Currently mastering Linux administration &amp; DevOps at Ducat, Noida. Always building <tspan font-weight="bold" fill="#F0F6FC">production solutions</tspan>.
+  </text>
+
+  <!-- Dynamic Numeric Metrics Blocks -->
+  <!-- Box 1 -->
+  <rect x="35" y="225" width="230" height="60" rx="10" fill="#00D9FF" fill-opacity="0.08" stroke="#00D9FF" stroke-opacity="0.2" />
+  <text x="150" y="250" text-anchor="middle" fill="#00D9FF" font-family="-apple-system, sans-serif" font-size="22" font-weight="bold">20+</tspan></text>
+  <text x="150" y="270" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="10" letter-spacing="0.5">TOTAL PROJECTS</text>
+
+  <!-- Box 2 -->
+  <rect x="285" y="225" width="230" height="60" rx="10" fill="#00D9FF" fill-opacity="0.08" stroke="#00D9FF" stroke-opacity="0.2" />
+  <text x="400" y="250" text-anchor="middle" fill="#00D9FF" font-family="-apple-system, sans-serif" font-size="22" font-weight="bold">5+</text>
+  <text x="400" y="270" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="10" letter-spacing="0.5">PRODUCTION LEVEL</text>
+
+  <!-- Box 3 -->
+  <rect x="535" y="225" width="230" height="60" rx="10" fill="#00D9FF" fill-opacity="0.08" stroke="#00D9FF" stroke-opacity="0.2" />
+  <text x="650" y="250" text-anchor="middle" fill="#00D9FF" font-family="-apple-system, sans-serif" font-size="22" font-weight="bold">100+</text>
+  <text x="650" y="270" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="10" letter-spacing="0.5">DSA PROGRAMS</text>
+
+  <!-- Side-By-Side Horizontal Structure Dividers -->
+  <line x1="35" y1="310" x2="765" y2="310" stroke="#30363D" stroke-width="1" />
+
+  <!-- Columns System: Education Heading & Content -->
+  <text x="35" y="338" fill="#D29922" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.5">🎓 EDUCATION</text>
+  <text x="35" y="360" fill="#F0F6FC" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold">Bachelor of Computer Applications ✓</text>
+  <text x="35" y="376" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="12">Database design &amp; software development</text>
+  
+  <text x="35" y="402" fill="#F0F6FC" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold">Linux &amp; DevOps Bootcamp 🚀</text>
+  <text x="35" y="418" fill="#8B949E" font-family="-apple-system, sans-serif" font-size="12">Ducat, Noida | In Progress</text>
+
+  <!-- Columns System: Current Focus Heading & Content -->
+  <text x="430" y="338" fill="#3FB950" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="0.5">⚡ CURRENT FOCUS</text>
+  
+  <circle cx="440" cy="358" r="3" fill="#3FB950" />
+  <text x="452" y="362" fill="#F0F6FC" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold">Linux System Administration</text>
+  
+  <circle cx="440" cy="378" r="3" fill="#3FB950" />
+  <text x="452" y="382" fill="#F0F6FC" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold">DevOps Pipelines &amp; Infrastructure</text>
+  
+  <circle cx="440" cy="400" r="3" fill="#3FB950" />
+  <text x="452" y="404" fill="#F0F6FC" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold">Kubernetes &amp; Container Orchestration</text>
+  
+  <circle cx="440" cy="422" r="3" fill="#3FB950" />
+  <text x="452" y="426" fill="#F0F6FC" font-family="-apple-system, sans-serif" font-size="13" font-weight="bold">Cloud-Native Architecture</text>
+</svg>
 </div>
-<h3 style="color: #F0F6FC; margin: 0 0 8px 0; font-size: 24px; font-weight: 700; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
-Vishal — Full Stack Dev & DevOps Enthusiast
-</h3>
-<p style="color: #58A6FF; font-size: 14px; margin: 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 500;">
-Building scalable systems from code to cloud
-</p>
-</div>
 
-<!-- Main Bio -->
-<p style="color: #C9D1D9; font-size: 15px; line-height: 1.8; margin: 0 0 24px 0; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
-<strong style="color: #F0F6FC;">BCA graduate</strong> based in India passionate about architecting <strong style="color: #F0F6FC;">high-performance applications</strong> and automating infrastructure. I specialize in <strong style="color: #58A6FF;">full-stack MERN development</strong> with strong foundations in <strong style="color: #58A6FF;">C/C++ & DSA</strong>. Currently mastering Linux administration & DevOps at Ducat, Noida. Always building <strong style="color: #F0F6FC;">production-ready solutions</strong>, never clones.
-</p>
+<br/>
 
-<!-- Stats Cards -->
-<div style="display: flex; gap: 12px; margin-bottom: 24px; justify-content: space-between;">
-<div style="flex: 1; background-color: rgba(0, 217, 255, 0.1); border: 1px solid rgba(0, 217, 255, 0.25); border-radius: 10px; padding: 14px; text-align: center;">
-<div style="color: #00D9FF; font-size: 22px; font-weight: bold;">20+</div>
-<div style="color: #8B949E; font-size: 12px; margin-top: 4px; font-family: monospace;">Total Projects</div>
-</div>
-<div style="flex: 1; background-color: rgba(0, 217, 255, 0.1); border: 1px solid rgba(0, 217, 255, 0.25); border-radius: 10px; padding: 14px; text-align: center;">
-<div style="color: #00D9FF; font-size: 22px; font-weight: bold;">5+</div>
-<div style="color: #8B949E; font-size: 12px; margin-top: 4px; font-family: monospace;">Production Level</div>
-</div>
-<div style="flex: 1; background-color: rgba(0, 217, 255, 0.1); border: 1px solid rgba(0, 217, 255, 0.25); border-radius: 10px; padding: 14px; text-align: center;">
-<div style="color: #00D9FF; font-size: 22px; font-weight: bold;">100+</div>
-<div style="color: #8B949E; font-size: 12px; margin-top: 4px; font-family: monospace;">DSA Programs</div>
-</div>
-</div>
-
-<div style="height: 1px; background: linear-gradient(90deg, transparent, #30363D, transparent); margin: 24px 0;"></div>
-
-<!-- Two Columns Layout Engine (Forces Side-by-Side Alignment) -->
-<table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
-<tr>
-<!-- Left Column: Education -->
-<td width="49%" valign="top" style="border: none; padding: 0; text-align: left;">
-<h4 style="color: #D29922; margin: 0 0 12px 0; font-family: monospace; font-size: 12px; letter-spacing: 0.5px; text-transform: uppercase; font-weight: bold;">
-🎓 Education
-</h4>
-<div style="color: #C9D1D9; font-size: 14px; line-height: 1.8; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
-<strong style="color: #F0F6FC;">Bachelor of Computer Applications</strong> ✓<br>
-<span style="color: #8B949E; font-size: 13px;">Database design & software development</span><br><br>
-<strong style="color: #F0F6FC;">Linux & DevOps Bootcamp</strong> 🚀<br>
-<span style="color: #8B949E; font-size: 13px;">Ducat, Noida | In Progress</span>
-</div>
-</td>
-
-<!-- Middle Spacer Column -->
-<td width="2%" style="border: none;"></td>
-
-<!-- Right Column: Current Focus -->
-<td width="49%" valign="top" style="border: none; padding: 0; text-align: left;">
-<h4 style="color: #3FB950; margin: 0 0 12px 0; font-family: monospace; font-size: 12px; letter-spacing: 0.5px; text-transform: uppercase; font-weight: bold;">
-⚡ Current Focus
-</h4>
-<ul style="color: #C9D1D9; margin: 0; padding-left: 18px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 14px; line-height: 1.95;">
-<li><strong style="color: #F0F6FC;">Linux System Administration</strong></li>
-<li><strong style="color: #F0F6FC;">DevOps Pipelines & Infrastructure</strong></li>
-<li><strong style="color: #F0F6FC;">Kubernetes & Container Orchestration</strong></li>
-<li><strong style="color: #F0F6FC;">Cloud-Native Architecture</strong></li>
-</ul>
-</td>
-</tr>
-</table>
-
-<!-- Divider -->
-<div style="height: 1px; background: linear-gradient(90deg, transparent, #30363D, transparent); margin: 28px 0;"></div>
-
-<!-- Centered Full-Width CTA Box -->
-<div style="background-color: rgba(63, 185, 80, 0.08); border: 1px solid rgba(63, 185, 80, 0.25); border-radius: 10px; padding: 22px; text-align: center; width: 92%; margin: 0 auto;">
+<!-- Centered Full-Width CTA Box (Native Markup Below SVG for Interactive Email Links) -->
+<div align="center">
+<div style="background-color: rgba(63, 185, 80, 0.08); border: 1px solid rgba(63, 185, 80, 0.25); border-radius: 10px; padding: 22px; text-align: center; width: 88%; margin: 0 auto;">
 <h4 style="color: #3FB950; margin: 0 0 10px 0; font-family: monospace; font-size: 13px; letter-spacing: 0.5px; text-transform: uppercase; font-weight: bold;">
 🤝 Open to Collaborate
 </h4>
@@ -119,10 +119,6 @@ Building scalable systems from code to cloud
 </tr>
 </table>
 </div>
-
-</td>
-</tr>
-</table>
 </div>
 
 <br><br><br><br>

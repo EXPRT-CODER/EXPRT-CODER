@@ -1,41 +1,57 @@
-<!-- ABOUT ME SECTION START -->
-<h2 align="left">👨‍💻 About Me</h2>
-
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&vCenter=true&width=500&lines=BCA+Graduate;Linux+%26+DevOps+Enthusiast;C%2B%2B+%2F+DSA+Problem+Solver;Tech+Builder+%26+Gamer" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/▶_FULL_STACK_DEVELOPER-00c8ff?style=for-the-badge&labelColor=00c8ff&color=00c8ff&logoColor=white" alt="Full Stack Developer" />
 </p>
 
-> 👋 Hello! I'm **Vishal**. I started my journey deep in software logic and competitive programming, and now I'm zooming out to conquer infrastructure. My goal is to completely bridge the gap between writing code and deploying it at scale.
+<h2>Vishal — Full Stack Dev & DevOps Enthusiast</h2>
+
+<h4 style="color: #00c8ff;">Building scalable systems from code to cloud</h4>
+
+<p>
+  <b>BCA graduate</b> based in India passionate about architecting <b>high-performance applications</b> and automating infrastructure. I specialize in <b style="color: #00c8ff;">full-stack MERN development</b> with strong foundations in <b style="color: #00c8ff;">C/C++ & DSA</b>. Currently mastering Linux administration & DevOps at Ducat, Noida. Always building <b>production-ready solutions</b>, never clones.
+</p>
+
+<br>
 
 <table width="100%" align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 The Professional Side</h3>
-      <ul>
-        <li>🎓 Recently completed my <b>BCA</b> degree.</li>
-        <li>🚀 Currently mastering <b>Linux & DevOps</b> via intensive training in Noida Sector 16.</li>
-        <li>💡 Built a strong foundational brain in <b>C++ and DSA</b>, now applying that logic to system automation.</li>
-        <li>🐧 Tinkering heavily with system administration and network security in <b>Kali Linux</b>.</li>
-      </ul>
+    <td width="33%" align="center">
+      <h2 style="color: #00c8ff;">20+</h2>
+      <p style="color: #8b949e;">Total Projects</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>⚡ The Personal Side</h3>
-      <ul>
-        <li>🛠️ <b>Hardware:</b> Building and troubleshooting custom PC rigs.</li>
-        <li>🎨 <b>Creative:</b> Designing and publishing custom AR filters using <b>Lens Studio</b>.</li>
-        <li>🏋️ <b>Fitness:</b> Consistently hitting the gym.</li>
-        <li>🎮 <b>Gaming:</b> Grinding ranks in <b>BGMI</b> and exploring <b>Minecraft</b>.</li>
-      </ul>
+    <td width="33%" align="center">
+      <h2 style="color: #00c8ff;">5+</h2>
+      <p style="color: #8b949e;">Production Level</p>
+    </td>
+    <td width="33%" align="center">
+      <h2 style="color: #00c8ff;">100+</h2>
+      <p style="color: #8b949e;">DSA Programs</p>
     </td>
   </tr>
 </table>
 
-<p align="left">
-  <b>🔥 Current Tech Focus:</b> &nbsp;
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/-DevOps-00599C?style=flat-square&logo=docker&logoColor=white" alt="DevOps" />
-  <img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/-C++_Roots-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>
 <br>
-<!-- ABOUT ME SECTION END -->
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 style="color: #d2a8ff;">🎓 EDUCATION</h4>
+      <p>
+        <b>Bachelor of Computer Applications ✓</b><br>
+        <span style="color: #8b949e;">Database design & software development</span>
+      </p>
+      <p>
+        <b>Linux & DevOps Bootcamp 🚀</b><br>
+        <span style="color: #8b949e;">Ducat, Noida | In Progress</span>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 style="color: #3fb950;">⚡ CURRENT FOCUS</h4>
+      <ul>
+        <li><b>Linux System Administration</b></li>
+        <li><b>DevOps Pipelines & Infrastructure</b></li>
+        <li><b>Kubernetes & Container Orchestration</b></li>
+        <li><b>Cloud-Native Architecture</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>

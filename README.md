@@ -25,29 +25,24 @@
   </p>
 </div>
 
+<br><hr><br>
+
+<h4><font color="#d2a8ff">🎓 EDUCATION</font></h4>
+<p>
+  <b>Bachelor of Computer Applications ✓</b><br>
+  <font color="#8b949e">Database design & software development</font>
+</p>
+<p>
+  <b>Linux & DevOps Bootcamp 🚀</b><br>
+  <font color="#8b949e">Ducat, Noida | In Progress</font>
+</p>
+
 <br>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><font color="#d2a8ff">🎓 EDUCATION</font></h4>
-      <p>
-        <b>Bachelor of Computer Applications ✓</b><br>
-        <font color="#8b949e">Database design & software development</font>
-      </p>
-      <p>
-        <b>Linux & DevOps Bootcamp 🚀</b><br>
-        <font color="#8b949e">Ducat, Noida | In Progress</font>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><font color="#3fb950">⚡ CURRENT FOCUS</font></h4>
-      <ul>
-        <li><b>Linux System Administration</b></li>
-        <li><b>DevOps Pipelines & Infrastructure</b></li>
-        <li><b>Kubernetes & Container Orchestration</b></li>
-        <li><b>Cloud-Native Architecture</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<h4><font color="#3fb950">⚡ CURRENT FOCUS</font></h4>
+<ul>
+  <li><b>Linux System Administration</b></li>
+  <li><b>DevOps Pipelines & Infrastructure</b></li>
+  <li><b>Kubernetes & Container Orchestration</b></li>
+  <li><b>Cloud-Native Architecture</b></li>
+</ul>

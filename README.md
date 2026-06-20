@@ -12,7 +12,10 @@
 
 
 
-
+<h2 align="center">👨‍💻 About Me</h2>
+<div align="center">
+  <img src="./image.png" width="90%" alt="About Me Dashboard">
+</div>
 
 
 
